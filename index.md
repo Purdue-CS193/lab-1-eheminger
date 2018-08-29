@@ -2,9 +2,11 @@
 This lab is the first of many to be completed by Eli Heminger
 
 ## Wthat Are Some Things I Like About CS193
--it introuduces us to tools that will not only be helpful during college, but after it too.
--it is made by students, for students.
--it has a chill and laid-back atmosphere unlike other lectures.
+-It introuduces us to tools that will not only be helpful during college, but after it too.
+
+-It is made by students, for students.
+
+-It has a chill and laid-back atmosphere unlike other lectures.
 
 
 
