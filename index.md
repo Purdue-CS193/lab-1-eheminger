@@ -1,3 +1,20 @@
+# Welcome to Eli Heminger's first CS193 lab
+This lab is the first of many to be completed by Eli Heminger
+
+## Wthat Are Some Things I Like About CS193
+-it introuduces us to tools that will not only be helpful during college, but after it too.
+-it is made by students, for students.
+-it has a chill and laid-back atmosphere unlike other lectures.
+
+
+
+
+
+
+
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
@@ -35,3 +52,9 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+
+
+
+
